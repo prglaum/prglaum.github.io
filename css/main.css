@@ -60,10 +60,10 @@ ul.posts li {
 
  /* Dropdown Button */
 .dropbtn {
-  background-color: white;
   color: white;
   padding: 0px;
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  background-color: inherit;
+  font-family: inherit;
   border: none;
   display: inline;
   margin-right: 20px;
