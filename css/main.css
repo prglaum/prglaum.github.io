@@ -42,6 +42,22 @@ ul.posts li {
     list-style: none;
 }
 
+ /* Container holding the image and the text */
+.container {
+  position: relative;
+}
+
+/* top right text */
+.text-block {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background-color: white;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+} 
+
  /* Dropdown Button */
 .dropbtn {
   background-color: #04AA6D;
