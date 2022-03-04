@@ -63,7 +63,8 @@ ul.posts li {
   overflow: hidden;
   color: white;
   padding: 0px;
-  background-color: transparent;;
+  background-color: transparent;
+  font-weight: bold;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   list-style: none;
   font-weight: bold;
