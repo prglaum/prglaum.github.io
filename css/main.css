@@ -60,11 +60,13 @@ ul.posts li {
 
  /* Dropdown Button */
 .dropbtn {
-  background-color: #04AA6D;
+  background-color: white;
   color: white;
-  padding: 16px;
+  padding: 0px;
   font-size: 16px;
   border: none;
+  display: inline;
+  margin-right: 20px;
 }
 
 /* The container <div> - needed to position the dropdown content */
