@@ -45,6 +45,7 @@ ul.posts li {
  /* Container holding the image and the text */
 .container {
   position: relative;
+  display: inline;
 }
 
 /* top right text */
@@ -52,6 +53,7 @@ ul.posts li {
   position: absolute;
   top: 20px;
   right: 20px;
+  transform: translate( -50%, -50% );
   background-color: white;
   color: black;
   padding-left: 20px;
