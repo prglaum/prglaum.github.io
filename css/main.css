@@ -60,6 +60,22 @@ ul.posts li {
   padding-right: 20px;
 } 
 
+/* figure with captions*/
+figure {
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+/*makes the image as wide as the inside of the figure (the area inside the border and the padding).*/
+img.scaled {
+  width: 100%;
+}
+
  /* Dropdown Button */
 .dropbtn {
   overflow: hidden;
