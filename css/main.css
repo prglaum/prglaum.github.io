@@ -62,7 +62,7 @@ ul.posts li {
 
 /* figure with captions*/
 figure {
-  width: 30%;
+  /*width: 30%;*/
   text-align: center;
   font-style: italic;
   font-size: smaller;
