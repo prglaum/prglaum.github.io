@@ -42,6 +42,12 @@ ul.posts li {
     list-style: none;
 }
 
+hr {
+  width: 80%;
+  opcaity: 0.5;
+  background-color: transparent;
+}
+
  /* Container holding the image and the text */
 .container {
   position: relative;
