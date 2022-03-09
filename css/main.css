@@ -103,8 +103,18 @@ ul.posts li {
 } 
 
 /* ***figure with captions*** */
-figure {
-  width: 10%;
+figureBig {
+  width: 50%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+figureSmall {
+  width: 30%;
   text-align: center;
   font-style: italic;
   font-size: smaller;
