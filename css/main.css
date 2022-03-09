@@ -49,8 +49,10 @@ ul.posts li {
 }*/
 
 /* ***creating row & columns*** */
-.row {
+.rowCentered {
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* Create two equal columns that sit next to each other */
