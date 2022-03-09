@@ -48,6 +48,13 @@ ul.posts li {
   background-color: transparent;
 }*/
 
+.float-img-left {
+    float:left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    padding: 2px;
+}
+
 /* ***creating row & columns*** */
 .rowCentered {
   display: flex;
