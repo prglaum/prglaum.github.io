@@ -53,8 +53,14 @@ ul.posts li {
   display: flex;
 }
 
-/* Create three equal columns that sits next to each other */
-.column {
+/* Create two equal columns that sit next to each other */
+.columnTwo {
+  flex: 50.0%;
+  padding: 5px;
+}
+
+/* Create three equal columns that sit next to each other */
+.columnThree {
   flex: 33.33%;
   padding: 5px;
 }
