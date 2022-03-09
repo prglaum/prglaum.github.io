@@ -48,9 +48,18 @@ ul.posts li {
   background-color: transparent;
 }*/
 
+/* ***float classes to move things to the left or right*** */
+/* ***remember to clear (left or right) when you want things on a new line*** */
 .float-img-left {
     float:left;
     margin-right: 10px;
+    margin-bottom: 5px;
+    padding: 2px;
+}
+
+.float-img-right {
+    float:right;
+    margin-left: 10px;
     margin-bottom: 5px;
     padding: 2px;
 }
