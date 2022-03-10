@@ -131,7 +131,7 @@ figure60 {
   width: 60%;
   text-align: center;
   font-style: italic;
-  font-size: smaller;
+/*  font-size: smaller;*/
   text-indent: 0;
   border: thin silver solid;
   margin: 0.5em;
@@ -141,7 +141,6 @@ figure50 {
   width: 50%;
   text-align: center;
   font-style: italic;
-  font-size: smaller;
   text-indent: 0;
   border: thin silver solid;
   margin: 0.5em;
@@ -151,7 +150,6 @@ figure40 {
   width: 40%;
   text-align: center;
   font-style: italic;
-  font-size: smaller;
   text-indent: 0;
   border: thin silver solid;
   margin: 0.5em;
@@ -161,7 +159,6 @@ figure30 {
   width: 30%;
   text-align: center;
   font-style: italic;
-  font-size: smaller;
   text-indent: 0;
   border: thin silver solid;
   margin: 0.5em;
