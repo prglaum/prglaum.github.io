@@ -102,6 +102,13 @@ ul.posts li {
   padding-right: 20px;
 } 
 
+.div80 {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* ***figure with captions*** */
 /* ***4 different versions of this for different sized figures*** */
 figure60 {
