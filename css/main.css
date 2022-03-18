@@ -185,6 +185,7 @@ img.scaled {
 
  /* ***Dropdown Button*** */
 .dropbtn {
+    font-size: 1.3em;
   overflow: hidden;
   color: white;
   padding: 0px;
