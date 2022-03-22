@@ -117,6 +117,13 @@ ul.posts li {
   margin-right: auto;
 }
 
+.div45 {
+  width: 45%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* ***figure with captions*** */
 /* ***4 different versions of this for different sized figures*** */
 figure {
